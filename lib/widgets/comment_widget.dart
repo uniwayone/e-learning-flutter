@@ -12,12 +12,6 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
-/*
-* @author: Nishchal Siddharth Pandey
-* 14 October, 2020
-* This file returns widget to be used in cards for comments and replies.
-*/
-
 class CommentWidget extends StatefulWidget {
   final String _username;
   final String _community;
